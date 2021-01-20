@@ -1,2 +1,2 @@
 [general]
-UID = "122"
+UID = 122
