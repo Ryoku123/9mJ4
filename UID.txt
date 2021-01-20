@@ -1,1 +1,2 @@
-
+[general]
+UID = "1"
